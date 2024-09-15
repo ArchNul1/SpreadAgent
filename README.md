@@ -1,6 +1,6 @@
-# DataWorm
+# SpreadAgent
 
-**DataWorm** é um exemplo básico de um "worm" criado em C# para fins educacionais em cibersegurança. Este código demonstra algumas técnicas fundamentais usadas por worms e outros tipos de malware para replicação e coleta de dados. 
+**SpreadAgent** é um exemplo básico de um "worm" criado em C# para fins educacionais em cibersegurança. Este código demonstra algumas técnicas fundamentais usadas por worms e outros tipos de malware para replicação e coleta de dados. 
 
 **Atenção:** Este software é destinado apenas para ambientes controlados e fins de aprendizado. Seu uso em sistemas reais ou para qualquer atividade não autorizada é estritamente desaconselhado.
 
